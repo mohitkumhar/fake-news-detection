@@ -20,6 +20,9 @@ This project implements a Fake News Detection system that classifies news articl
 3. The pre-trained model predicts whether the news is fake or true.
 4. The result is displayed on the webpage.
 
+   ![image](https://github.com/user-attachments/assets/36c9f56e-9338-4a3e-b2aa-10d586e1e741)
+
+
 ## Installation
 To run the Fake News Detection system locally, follow these steps:
 
